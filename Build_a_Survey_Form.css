@@ -1,5 +1,11 @@
 body {
-  background-color: #b2d5d1;
-  font-family: sans-serif;
-  text-align:center
+	background-color: #b2d5d1;
+	font-family: sans-serif;
+	text-align:center
+}
+
+main {
+	background-color: white;
+	width: 80%;
+	margin:auto;
 }
