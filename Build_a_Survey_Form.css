@@ -42,3 +42,13 @@ p {
 	border: 1px solid #c0c0c0;
 	border-radius: 2px;
 }
+
+.message {
+	height: 50px;
+	width: 280px;
+	padding: 5px;
+	margin: 10px;
+	border: 1px solid #c0c0c0;
+	border-radius: 2px;
+}
+
