@@ -11,5 +11,9 @@ main {
 }
 
 h1 {
-  font-weight: normal;
+	font-weight: normal;
+}
+
+p {
+	padding-top: 30px;
 }
